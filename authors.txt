@@ -51,3 +51,7 @@ DrMeers = Simon Meers <simon@simonmeers.com>
 claudep = Claude Paroz <claude@2xlibre.net>
 idangazit = Idan Gazit <idan@gazit.me>
 grahamd = NAME <USER@DOMAIN>
+apollo13 = NAME <USER@DOMAIN>
+loewis = NAME <USER@DOMAIN>
+arthurk = NAME <USER@DOMAIN>
+andrewgodwin = NAME <USER@DOMAIN>
