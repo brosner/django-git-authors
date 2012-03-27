@@ -1,5 +1,6 @@
 aaugustin = Aymeric Augustin <aymeric.augustin@m4x.org>
 adrian = Adrian Holovaty <adrian@holovaty.com>
+akaariai = Anssi Kääriäinen <anssi.kaariainen@thl.fi>
 Alex = Alex Gaynor <alex.gaynor@gmail.com>
 aljosa = Aljosa Mohorovic <aljosa.mohorovic@gmail.com>
 andrewgodwin = Andrew Godwin <andrew@aeracode.org>
