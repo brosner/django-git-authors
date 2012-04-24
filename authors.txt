@@ -49,11 +49,11 @@ wilson = Wilson Miner <wminer@gmail.com>
 xian = Christian Metts <xian@mintchaos.com>
 zain = Zain Memon <zain@inzain.net>
 zgoda = Jarek Zgoda <jarek.zgoda@redefine.pl>
+clong = Christopher Long <indirecthit@gmail.com>
+danderson = Derek Anderson <public@kered.org>
+jpellerin = Jason Pellerin <jpellerin@gmail.com>
+rmunn = Robin Munn <robin.munn@gmail.com>
+utrebec = Uroš Trebec <uros.trebec@gmail.com>
 
-cell = NAME <USER@DOMAIN>
-clong = NAME <USER@DOMAIN>
-danderson = NAME <USER@DOMAIN>
 dcf = NAME <USER@DOMAIN>
-jpellerin = NAME <USER@DOMAIN>
-rmunn = NAME <USER@DOMAIN>
-utrebec = NAME <USER@DOMAIN>
+cell = NAME <USER@DOMAIN>
