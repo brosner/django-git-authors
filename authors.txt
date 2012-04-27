@@ -14,6 +14,7 @@ ccahoon = Chris Cahoon <chris.cahoon@gmail.com>
 claudep = Claude Paroz <claude@2xlibre.net>
 clong = Christopher Long <indirecthit@gmail.com>
 danderson = Derek Anderson <public@kered.org>
+dcf = Duncan Foster <dcf@europe.renre.com>
 DrMeers = Simon Meers <simon@simonmeers.com>
 gabrielhurley = Gabriel Hurley <gabehr@gmail.com>
 garcia_marc = Marc Garcia <garcia.marc@gmail.com>
@@ -56,5 +57,5 @@ zain = Zain Memon <zain@inzain.net>
 zgoda = Jarek Zgoda <jarek.zgoda@redefine.pl>
 
 
-dcf = Duncan Foster <dcf@europe.renre.com>
+
 cell = NAME <USER@DOMAIN>
