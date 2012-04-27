@@ -56,5 +56,5 @@ zain = Zain Memon <zain@inzain.net>
 zgoda = Jarek Zgoda <jarek.zgoda@redefine.pl>
 
 
-dcf = NAME <USER@DOMAIN>
+dcf = Duncan Foster <dcf@europe.renre.com>
 cell = NAME <USER@DOMAIN>
