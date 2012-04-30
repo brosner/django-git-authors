@@ -1,6 +1,6 @@
 aaugustin = Aymeric Augustin <aymeric.augustin@m4x.org>
 adrian = Adrian Holovaty <adrian@holovaty.com>
-akaariai = Anssi Kääriäinen <anssi.kaariainen@thl.fi>
+akaariai = Anssi Kääriäinen <akaariai@gmail.com>
 Alex = Alex Gaynor <alex.gaynor@gmail.com>
 aljosa = Aljosa Mohorovic <aljosa.mohorovic@gmail.com>
 andrewgodwin = Andrew Godwin <andrew@aeracode.org>
@@ -28,7 +28,7 @@ jacob = Jacob Kaplan-Moss <jacob@jacobian.org>
 jbronn = Justin Bronn <jbronn@gmail.com>
 jdunck = Jeremy Dunck <jdunck@gmail.com>
 jezdez = Jannis Leidel <jannis@leidel.info>
-jkocherhans = Joseph Kocherhans <jkocherhans@gmail.com>
+jkocherhans = Joseph Kocherhans <joseph@jkocherhans.com>
 jpellerin = Jason Pellerin <jpellerin@gmail.com>
 jtauber = James Tauber <jtauber@jtauber.com>
 julien = Julien Phalip <jphalip@gmail.com>
@@ -55,7 +55,4 @@ wilson = Wilson Miner <wminer@gmail.com>
 xian = Christian Metts <xian@mintchaos.com>
 zain = Zain Memon <zain@inzain.net>
 zgoda = Jarek Zgoda <jarek.zgoda@redefine.pl>
-
-
-
-cell = NAME <USER@DOMAIN>
+cell = cell <cell-unknown@example.com>
